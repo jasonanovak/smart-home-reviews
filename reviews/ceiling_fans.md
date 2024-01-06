@@ -1,4 +1,4 @@
-# Fans
+# Ceiling Fans
 
 I'm a big fan (har har) of using fans to regulate temperatures in rooms and
 have experience with two different brands.
@@ -11,7 +11,14 @@ Assistant has support for many fan brands.
 To have control at a wall switch location, I use a Z-Wave smart controller to
 then control scenes that turn the fan's light and the fan itself on/off.
 
-I ultimately recommend Modern Forms fans.
+I ultimately recommend Modern Forms fans given wider variety of styles.
+
+## [Modern Forms](https://www.modernforms.com/)
+- We have a series of Aviator and Aviator 5 in both downrod and flush 
+configurations.
+- Overall, the brand has a wide variety of fan and lighting 
+configurations to match a wide variety of styles/asthetics.
+- Installation is relatively straightforward and easy and can be DIY'ed.
 
 ## [Big Ass Fans (BAF)](https://bigassfans.com/)
 - We had a series of [Haiku-L](https://bigassfans.com/haiku-l/) fans that
@@ -23,7 +30,3 @@ assembly differences. If you're ordering all your fans at once, this shouldn't
 be a problem, but, if you're adding/replacing fans over time, you may get two
 different generations of fans as I don't think retailers differentiate.
 
-## [Modern Forms](https://www.modernforms.com/)
-- When we moved, we installed Modern Forms fans in our new place instead of
-more Haiku-Ls as we prefered the asthetics of the Modern Forms fans and there's
-a greater variety of fans.
