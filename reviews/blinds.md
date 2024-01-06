@@ -56,7 +56,7 @@ have the shade at different states (e.g. 50% light filtering and 50% light
 blocking).
 - The RF motor is the noisest of the three brands.
 
-## [Switchbot](https://switch-bot.com)
+## Switchbot
 - I tried using two generations of the [Switchbot Curtain](https://us.switch-bot.com/pages/switchbot-curtain)
 to automate some existing curtains in my house but found that they were
 generally loud, slow, and underpowered.

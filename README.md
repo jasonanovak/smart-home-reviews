@@ -4,7 +4,7 @@ I've been interested in the smart home space for a long time and, as I've
 moved around, I've smartified a few different homes. As a result, I have some
 practical opinions/reviews.
 
-The purpose of this repo is three-fold:
+The purpose of this repo is two-fold:
 1. Centralize this knowledge for sharing with friends.
 1. Reduce the amount of Googling others have to do to answer some of the
 questoins I had.

@@ -29,4 +29,7 @@ the LED module.
 assembly differences. If you're ordering all your fans at once, this shouldn't
 be a problem, but, if you're adding/replacing fans over time, you may get two
 different generations of fans as I don't think retailers differentiate.
+- There's a lot of SKUs for the same fans across different retailers with
+different pricing, making it hard to know for sure what you're getting without
+diligent decoding.
 

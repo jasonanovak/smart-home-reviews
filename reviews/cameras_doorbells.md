@@ -6,7 +6,7 @@ one companies' doorbell and camera offerings.
 
 I ultimately recommend Arlo.
 
-## Arlo
+## [Arlo](https://www.arlo.com)
 - I've used a series of Arlo cameras --
 [Essential Wireless Security Camera](https://www.arlo.com/en-us/cameras/essential/arlo-essential-v2.html),
 [Pro 3 Wireless Floodlight Camera](https://www.arlo.com/en-us/light/arlo-pro-3-floodlight-camera.html),
