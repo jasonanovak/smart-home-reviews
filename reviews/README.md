@@ -1,4 +1,4 @@
-## Reviews and Recommendations
+# Reviews and Recommendations
 
 - [Alarm Systems](alarm_system.md) - I recommend Abode
 - [Blinds](blinds.md) - No straightforward recommendation, all
