@@ -50,6 +50,8 @@ to fully closed.
   - By extension, the RF remote needs to be replaced with a scene
   controller that is programmed to invoke the open/close commands in Home
   Assistant.
+  - I've written some [glue code](https://github.com/jasonanovak/smart-home-glue/tree/main/rf_blind_home_assistant_control)
+  to automatically track the blind position in Home Assistant.
 - They're not actually top-down/bottom-up but rather have a privacy shade
 and a blackout shade that goes open -> privacy -> blackout -> closed. You can
 have the shade at different states (e.g. 50% light filtering and 50% light
